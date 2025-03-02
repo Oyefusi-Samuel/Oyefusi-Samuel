@@ -29,6 +29,8 @@ I'm passionate about leveraging **Robotics and AI** to solve real-world problems
 - **Autonomous Rover (African Rover Challenge)**: Developing an autonomous exploration bot 🚀
 - **Pan African Robotics Competition**: Represented Nigeria in robotics innovation 🤖🌍
 - **Automated Slider Crank Mechanism**: Enhancing mechanical efficiency through automation ⚙️
+- **Cleaning Autonomous Mobile Robot (Zed-BOT) with UVC for Disinfection**: A self-navigating robot designed to disinfect spaces using ultraviolet light 🦠🚨
+
 
 📌 *More projects coming soon!*
 
