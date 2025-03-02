@@ -6,7 +6,7 @@
 ---
 
 ## 🔬 About Me
-I'm passionate about leveraging **Robotics and AI** to solve real-world problems, especially in ** Autonomous systems, agriculture, energy transition, and sustainable development**. 
+I'm passionate about leveraging **Robotics and AI** to solve real-world problems, especially in **Autonomous systems, agriculture, energy transition, and sustainable development**. 
 
 
 
