@@ -37,9 +37,9 @@ I'm passionate about leveraging **Robotics and AI** to solve real-world problems
 ---
 
 ## 🌱 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/samueloluwa)  
-🐦 [Twitter/X](https://twitter.com/samueloluwa)  
-🌍 [My Website](https://tkoinsights.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/samuel-oyefusi/)  
+🐦 [Twitter/X](https://www.linkedin.com/in/samuel-oyefusi/)  
+🌍 [My Website](https://sites.google.com/view/samueloyefusi)  
 📫 Reach me at: **samueloyefusi@gmail.com**
 
 ⚡ *Always open to collaborations, research opportunities, and innovative discussions!*
