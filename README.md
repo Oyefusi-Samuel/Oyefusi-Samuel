@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Samuel Oluwakorede Oyefusi
 
-🚀 **Aspiring Roboticist | AI Researcher | Sustainable Innovation Advocate**  
-📍 Mechanical Engineering | Energy Transition | Robotics & AI  
+🤖**Aspiring Roboticist | AI Researcher | Smart Manufacturing**  
+  Robotics & AI  
 ![](https://komarev.com/ghpvc/?username=Oyefusi-Samuel&abbreviated=true)
 
 ---
