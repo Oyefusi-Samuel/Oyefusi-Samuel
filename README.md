@@ -8,7 +8,7 @@
 Helping 🤖 🦾✇Robots Understand Humans 𐦂𖨆𐀪𖠋
 
 ## 🔬 About Me
-I'm passionate about leveraging **Robotics and AI** to solve real-world problems, especially in **Human–Robot Interaction, Robot Control and Learning, Autonomy for Mobility and Manipulation, Healthcare Robotics, Aerial Robotics, and Industrial Robotics.**. 
+I'm passionate about leveraging **Robotics and AI** to solve real-world problems, especially in **Human–Robot Interaction, Robot Control and Learning, Autonomy for Mobility and Manipulation, Healthcare Robotics, Aerial Robotics, and Industrial Robotics.** 
 
 
 
